@@ -6,4 +6,4 @@ The Solutions to the excercises are provided as codes which are written in Googl
 
 These Solutions are organised Chapterwise from Chapter 1 onwards
 
- 
+ Problems are divided into R, C and P types
